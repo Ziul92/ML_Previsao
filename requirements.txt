@@ -1,0 +1,36 @@
+# Compatibilidade numérica e manipulação de dados
+numpy>=1.26,<2.3
+pandas>=2.2,<3.0
+
+# Visualização
+matplotlib>=3.8
+seaborn>=0.13
+
+# Banco de dados e requisições HTTP
+duckdb>=1.1
+requests>=2.31
+
+# Calendários e feriados
+holidays>=0.50
+
+# Machine Learning
+scikit-learn>=1.4
+lightgbm>=4.3
+
+# Forecasting e séries temporais
+mlforecast>=1.0,<2.0
+utilsforecast>=0.2
+statsforecast>=2.0
+
+# Estatística e sazonalidade
+statsmodels>=0.14
+
+# Interface interativa e execução do notebook
+ipywidgets>=8.1
+ipython>=8.0
+jupyterlab>=4.0
+notebook>=7.0
+ipykernel>=6.0
+
+# Exportação de planilhas Excel
+openpyxl>=3.1
